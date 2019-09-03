@@ -6,3 +6,5 @@ asdasd
 bla bla
 
 asdas
+
+git pull
